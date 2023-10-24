@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'IBM Plex Sans';
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+h1 {
+  font-size: 2.5rem!important;
+}
+
+.subtitle-p {
+  font-size: 1.5rem;
+  font-weight: 300;
+}
+
+.main {
+  padding: 20px;
+}
+
+.cds-react-dropdown {
+  width: 420px;
+  padding: 20px 0;
+}
